@@ -1,6 +1,6 @@
 [
   {
-    "Dst": "https://193.37.157.24", 
+    "Dst": "https://lukoil-shop.ru", 
     "Duration": "421919", 
     "Port": "443", 
     "Proto": "CONNECTION", 
@@ -12,7 +12,7 @@
     "id": "62"
   }, 
   {
-    "Dst": "https://193.0.214.42", 
+    "Dst": "https://v102.ru", 
     "Duration": "421952", 
     "Port": "443", 
     "Proto": "CONNECTION", 
@@ -22,113 +22,5 @@
     "Threads": "500", 
     "UseProxy": "True", 
     "id": "63"
-  }, 
-  {
-    "Dst": "193.0.214.242", 
-    "Duration": "421973", 
-    "Port": "80", 
-    "Proto": "CONNECTION", 
-    "ProxyList": "proxylist.txt", 
-    "ProxyType": "0", 
-    "RPC": "100", 
-    "Threads": "500", 
-    "UseProxy": "True", 
-    "id": "64"
-  }, 
-  {
-    "Dst": "https://91.213.144.43", 
-    "Duration": "388369", 
-    "Port": "443", 
-    "Proto": "GET", 
-    "ProxyList": "proxylist.txt", 
-    "ProxyType": "0", 
-    "RPC": "100", 
-    "Threads": "500", 
-    "UseProxy": "True", 
-    "id": "65"
-  }, 
-  {
-    "Dst": "https://213.109.72.155", 
-    "Duration": "388369", 
-    "Port": "443", 
-    "Proto": "POST", 
-    "ProxyList": "proxylist.txt", 
-    "ProxyType": "0", 
-    "RPC": "100", 
-    "Threads": "500", 
-    "UseProxy": "True", 
-    "id": "66"
-  }, 
-  {
-    "Dst": "https://217.21.220.247", 
-    "Duration": "422031", 
-    "Port": "443", 
-    "Proto": "CPS", 
-    "ProxyList": "proxylist.txt", 
-    "ProxyType": "0", 
-    "RPC": "100", 
-    "Threads": "500", 
-    "UseProxy": "True", 
-    "id": "67"
-  }, 
-  {
-    "Dst": "https://46.17.202.70", 
-    "Duration": "428641", 
-    "Port": "443", 
-    "Proto": "CONNECTION", 
-    "ProxyList": "proxylist.txt", 
-    "ProxyType": "0", 
-    "RPC": "100", 
-    "Threads": "500", 
-    "UseProxy": "True", 
-    "id": "68"
-  }, 
-  {
-    "Dst": "https://46.17.202.90", 
-    "Duration": "428662", 
-    "Port": "443", 
-    "Proto": "CONNECTION", 
-    "ProxyList": "proxylist.txt", 
-    "ProxyType": "0", 
-    "RPC": "100", 
-    "Threads": "500", 
-    "UseProxy": "True", 
-    "id": "69"
-  }, 
-  {
-    "Dst": "https://46.48.118.29", 
-    "Duration": "428683", 
-    "Port": "443", 
-    "Proto": "CONNECTION", 
-    "ProxyList": "proxylist.txt", 
-    "ProxyType": "0", 
-    "RPC": "100", 
-    "Threads": "500", 
-    "UseProxy": "True", 
-    "id": "70"
-  }, 
-  {
-    "Dst": "https://62.76.102.63", 
-    "Duration": "428704", 
-    "Port": "443", 
-    "Proto": "CONNECTION", 
-    "ProxyList": "proxylist.txt", 
-    "ProxyType": "0", 
-    "RPC": "100", 
-    "Threads": "500", 
-    "UseProxy": "True", 
-    "id": "71"
-  }, 
-  {
-    "Dst": "https://178.238.112.83", 
-    "Duration": "428730", 
-    "Port": "443", 
-    "Proto": "CONNECTION", 
-    "ProxyList": "proxylist.txt", 
-    "ProxyType": "0", 
-    "RPC": "100", 
-    "Threads": "500", 
-    "UseProxy": "True", 
-    "id": "72"
   }
 ]
