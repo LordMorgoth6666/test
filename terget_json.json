@@ -7,7 +7,7 @@
     "ProxyList": "proxylist.txt", 
     "ProxyType": "0", 
     "RPC": "100", 
-    "Threads": "500", 
+    "Threads": "50", 
     "UseProxy": "True", 
     "id": "62"
   }, 
@@ -19,7 +19,7 @@
     "ProxyList": "proxylist.txt", 
     "ProxyType": "0", 
     "RPC": "100", 
-    "Threads": "500", 
+    "Threads": "50", 
     "UseProxy": "True", 
     "id": "63"
   }
